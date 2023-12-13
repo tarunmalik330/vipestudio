@@ -227,11 +227,11 @@ const VipeHeader = () => {
               <img
                 src={WordpressTeam}
                 alt="WordpressTeam"
-                className=" w-full rounded-[20px] relative z-[1]"
+                className=" w-full rounded-[20px] relative z-[1] 2xl:!translate-x-[16px]"
                 data-aos="fade-left"
               />
               <div
-                className="bg-[#0000004d] backdrop-blur-md absolute z-[2] py-[10px] cursor-pointer pl-[18px] pr-[28px] left-0 bottom-0 rounded-[15px] m-[24px]"
+                className="bg-[#0000004d] backdrop-blur-md absolute z-[2] py-[10px] cursor-pointer pl-[18px] pr-[28px] left-0 bottom-0 rounded-[15px] m-[24px] 2xl:ml-[40px] 2xl:mb-[24px]"
                 data-aos="fade-left"
               >
                 <img
