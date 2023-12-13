@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+* {
+    scroll-behavior: smooth !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+.ff_inter {
+    font-family: 'Inter', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+    font-family: "KonexyPersonalUse";
+    src: url('./fonts/konexypersonaluse.otf');
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ff_KonexyPersonalUse {
+    font-family: "KonexyPersonalUse";
 }
 
-.App-link {
-  color: #61dafb;
+@font-face {
+    font-family: "Gilroy";
+    src: url('./fonts/Gilroy-Light.otf');
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ff_Gilroy {
+    font-family: "Gilroy", sans-serif;
+}
+
+.slick-track {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.box_animation {
+    animation-name: animation;
+    animation-duration: 5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+
+@keyframes animation {
+    0% {
+        background: #5F21E9;
+    }
+
+    50.0% {
+        background: #7919ad;
+    }
+
+    100.0% {
+        background-color: #FA00FF;
+    }
 }
