@@ -6,7 +6,7 @@ const AgileWordpress = () => {
     <div>
       <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[67px] pb-[50px] sm:pb-[100px]">
         <div className=" flex flex-row flex-wrap items-center">
-          <div className=" lg:w-1/2 w-full flex sm:justify-start justify-center">
+          <div className=" lg:w-5/12 w-full flex sm:justify-start justify-center">
             <img
               src={AgileProject}
               alt="AgileProject"
@@ -14,17 +14,17 @@ const AgileWordpress = () => {
               data-aos="zoom-in-right"
             />
           </div>
-          <div className=" lg:w-1/2 w-full pt-6 lg:pt-0 flex items-center sm:justify-end">
+          <div className=" lg:w-7/12 w-full pt-6 lg:pt-0 flex items-center sm:justify-end">
             <div data-aos="zoom-in-left">
               <h2
-                className=" ff_KonexyPersonalUse font-normal lg:text-[48px] sm:text-[40px] text-[30px] text-black pb-3"
+                className=" ff_KonexyPersonalUse font-normal lg:text-[48px] lg:max-w-[670px] sm:text-[40px] text-[30px] text-black pb-3"
                 data-aos="zoom-in-left"
               >
                 {" "}
                 <span className=" ff_KonexyPersonalUse font-semibold text-[#6022EA]">
                   Agile WordPress
                 </span>{" "}
-                Development Project management
+                <span className=" block">Development Project </span> management
               </h2>
               <p
                 className=" text-black ff_Gilroy text-[16px] font-normal leading-[150%] opacity-[0.7] lg:max-w-[572px] pb-[32px]"

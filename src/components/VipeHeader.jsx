@@ -37,7 +37,7 @@ const VipeHeader = () => {
               >
                 <li className=" group relative">
                   <a
-                    className=" text-white flex font-normal text-[16px] leading-[150%] "
+                    className=" text-white flex ff_Gilroy font-normal text-[16px] leading-[150%] "
                     href=""
                   >
                     WordPress Solution
@@ -48,14 +48,17 @@ const VipeHeader = () => {
                   <div className=" absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex ">
                     <a
                       href="#Home"
-                      className=" w-[108px] h-[45px] text-black bg-white flex justify-center items-center"
+                      className=" w-[108px] ff_Gilroy h-[45px] text-black bg-white flex justify-center items-center"
                     >
                       eBooks
                     </a>
                   </div>
                 </li>
                 <li className=" group relative">
-                  <a className=" text-white flex" href="">
+                  <a
+                    className=" text-white ff_Gilroy font-normal text-[16px] flex"
+                    href=""
+                  >
                     Services
                     <span>
                       <NavArrow />
@@ -64,7 +67,7 @@ const VipeHeader = () => {
                   <div className=" absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex ">
                     <a
                       href="#Home"
-                      className=" w-[108px] h-[45px] text-black bg-white flex justify-center items-center"
+                      className=" w-[108px] h-[45px] ff_Gilroy text-black bg-white flex justify-center items-center"
                     >
                       eBooks
                     </a>
@@ -72,7 +75,7 @@ const VipeHeader = () => {
                 </li>
                 <li>
                   <a
-                    className=" text-white font-normal text-[16px] leading-[150%] flex"
+                    className=" text-white font-normal ff_Gilroy text-[16px] leading-[150%] flex"
                     href=""
                   >
                     Portfolio
@@ -80,7 +83,7 @@ const VipeHeader = () => {
                 </li>
                 <li className=" group relative">
                   <a
-                    className=" text-white font-normal text-[16px] leading-[150%] flex"
+                    className=" text-white font-normal ff_Gilroy text-[16px] leading-[150%] flex"
                     href=""
                   >
                     About
@@ -91,7 +94,7 @@ const VipeHeader = () => {
                   <div className=" absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex ">
                     <a
                       href="#Home"
-                      className=" w-[108px] h-[45px] text-black bg-white flex justify-center items-center"
+                      className=" w-[108px] h-[45px] text-black ff_Gilroy bg-white flex justify-center items-center"
                     >
                       eBooks
                     </a>
@@ -99,7 +102,7 @@ const VipeHeader = () => {
                 </li>
                 <li>
                   <a
-                    className=" text-white font-normal text-[16px] leading-[150%] flex"
+                    className=" text-white font-normal ff_Gilroy text-[16px] leading-[150%] flex"
                     href=""
                   >
                     Blog
@@ -110,13 +113,16 @@ const VipeHeader = () => {
             <div className="lg:block hidden">
               <ul className="flex items-center justify-center gap-9">
                 <li>
-                  <a className=" text-white" href="">
+                  <a
+                    className=" text-white ff_Gilroy text-[16px] font-normal "
+                    href=""
+                  >
                     1 888 266-6917 (eu <span className=" ff_inter">?</span>)
                   </a>
                 </li>
                 <li>
                   <a
-                    className=" text-white hover:shadow-[0_3px_20px_rgba(225,_225,_225,_1)] transition-all duration-500 ease-linear text-[18px] font-semibold leading-[150%] py-[10px] px-[24px] bg-[#6022EA] shadow rounded-[80px] "
+                    className=" text-white hover:shadow-[0_3px_20px_rgba(225,_225,_225,_1)] transition-all duration-500 ease-linear text-[18px] font-semibold leading-[150%] py-[10px] px-[24px] bg-[#6022EA] ff_Gilroy shadow rounded-[80px] "
                     href=""
                   >
                     Contact Us
@@ -125,7 +131,7 @@ const VipeHeader = () => {
                 <li className=" relative group flex gap-1">
                   <Earth />
                   <a
-                    className=" text-white flex font-normal text-[16px] leading-[150%] "
+                    className=" text-white flex font-normal ff_Gilroy text-[16px] leading-[150%] "
                     href=""
                   >
                     Eng
