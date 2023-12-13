@@ -54,7 +54,7 @@ const WordpressPartner = () => {
   return (
     <>
       <div className=" bg-[#F6F6F6]">
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4 py-[69px]">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 py-[69px]">
           <h2
             className=" text-black ff_KonexyPersonalUse text-[25px] sm:text-[48px] font-normal lg:max-w-[631px] pb-[20px]"
             data-aos="zoom-in-right"

@@ -16,7 +16,7 @@ import { WIcon } from "./IconImg";
 const Footer = () => {
   return (
     <>
-      <div className="max-w-[1320px] mx-auto md:px-6 px-4 pt-[40px] sm:pt-[120px]">
+      <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[40px] sm:pt-[120px]">
         <div className="flex translate-y-[20%] pt-[25px] px-[24px] sm:px-[43px] justify-between items-center sm:pb-11 pb-[24px] shadow-[0_3px_20px_rgba(39,_0,_124,_0.50)] flex-row flex-wrap bg-gradient-to-r from-violet-700 to-fuchsia-500 rounded-[17px] box_animation">
           <div>
             <h2 className=" ff_KonexyPersonalUse sm:text-[48px] text-[32px] text-white font-normal pb-2">
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
       </div>
       <div className=" bg-black">
-        <div className="max-w-[1344px] mx-auto md:px-6 px-4 pt-[100px]">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[100px]">
           <div className=" flex justify-between md:flex-row flex-col pb-[47px]">
             <img
               src={LogoImg}
@@ -271,7 +271,7 @@ const Footer = () => {
           </div>
         </div>
         <div className=" border border-[#FFFFFF] opacity-[0.3] w-full"></div>
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4">
           <div className=" flex md:flex-row flex-col lg:items-center justify-between pt-[31px] pb-[36px]">
             <div>
               <p className=" ff_Gilroy text-white text-[14px] font-normal pb-[14px] ">

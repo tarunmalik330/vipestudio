@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <>
       <div className=" bg-black">
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4 pt-[80px]">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[80px]">
           <div className=" flex flex-row flex-wrap">
             <div className=" lg:w-1/3  w-full">
               <h3
@@ -111,7 +111,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4 sm:pt-[170px] pt-[60px] pb-[81px]">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 sm:pt-[170px] pt-[60px] pb-[81px]">
           <div className=" relative">
             <div className="w-[187.13px] h-[187.13px] bg-gradient-to-b to-[#6022EA] from-[#FA00FF] absolute rounded-full blur-[100px] right-[0%] bottom-[-9%]"></div>
             <div className="w-[187.13px] h-[187.13px] bg-gradient-to-b to-[#6022EA] from-[#FA00FF] absolute rounded-full blur-[100px] left-[-7%]"></div>

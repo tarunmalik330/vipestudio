@@ -5,7 +5,7 @@ const TeamStars = () => {
   return (
     <>
       <div className=" bg-[#F6F6F6]">
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4">
           <div className=" flex flex-row flex-wrap items-center">
             <div className=" lg:w-1/2 w-full" data-aos="zoom-in-right">
               <h2

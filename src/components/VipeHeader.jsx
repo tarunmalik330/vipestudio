@@ -20,7 +20,7 @@ const VipeHeader = () => {
   return (
     <>
       <div className="bg-black relative">
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4">
+        <div className=" container xl:max-w-[1320px] mx-auto md:px-6 px-4">
           <nav className=" flex justify-between items-center py-4">
             <div className=" flex justify-between gap-12 items-center">
               <img
@@ -172,7 +172,7 @@ const VipeHeader = () => {
             </div>
           </nav>
         </div>
-        <div className="max-w-[1320px] mx-auto md:px-6 px-4 sm:pt-[107px] pt-[50px] sm:pb-[150px] pb-[20px]">
+        <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 sm:pt-[107px] pt-[50px] sm:pb-[150px] pb-[20px]">
           <div className=" flex flex-row flex-wrap items-center">
             <div className="lg:w-1/2 w-full">
               <h1
@@ -246,7 +246,7 @@ const VipeHeader = () => {
           </div>
         </div>
         <div className=" bottom-0 left-0 w-full  bg-[#e1ffff0d]">
-          <div className="max-w-[1320px] mx-auto md:px-6 px-4 py-[64px]">
+          <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 py-[64px]">
             <div className=" flex  max-lg:flex-col items-center justify-between">
               <div>
                 <h2

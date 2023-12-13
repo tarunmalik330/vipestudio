@@ -4,7 +4,7 @@ import AgileProject from "../assets/images/png/AgileProject.png";
 const AgileWordpress = () => {
   return (
     <div>
-      <div className="max-w-[1320px] mx-auto md:px-6 px-4 pt-[67px] pb-[50px] sm:pb-[100px]">
+      <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[67px] pb-[50px] sm:pb-[100px]">
         <div className=" flex flex-row flex-wrap items-center">
           <div className=" lg:w-1/2 w-full flex sm:justify-start justify-center">
             <img
