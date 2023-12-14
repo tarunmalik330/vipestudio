@@ -9,7 +9,7 @@ const TeamStars = () => {
           <div className=" flex flex-row flex-wrap items-center">
             <div className=" lg:w-1/2 w-full" data-aos="zoom-in-right">
               <h2
-                className=" text-black ff_KonexyPersonalUse text-[29px] sm:text-[48px] font-normal pb-3"
+                className=" text-black ff_KonexyPersonalUse text-[27px] sm:text-[48px] font-normal pb-3"
                 data-aos="zoom-in-right"
               >
                 Team Full of Stars{" "}

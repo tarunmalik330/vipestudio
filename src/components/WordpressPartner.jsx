@@ -56,7 +56,7 @@ const WordpressPartner = () => {
       <div className=" bg-[#F6F6F6]">
         <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 py-[69px]">
           <h2
-            className=" text-black ff_KonexyPersonalUse text-[25px] sm:text-[48px] font-normal lg:max-w-[631px] pb-[20px]"
+            className=" text-black ff_KonexyPersonalUse text-[24px] sm:text-[48px] font-normal lg:max-w-[631px] pb-[20px]"
             data-aos="zoom-in-right"
           >
             Long Term WordPress Partner

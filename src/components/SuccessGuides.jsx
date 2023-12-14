@@ -6,8 +6,8 @@ const SuccessGuides = () => {
   return (
     <>
       <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[100px] sm:pt-[144px]">
-        <div className=" flex flex-row flex-wrap">
-          <div className=" lg:w-4/12 flex lg:justify-end justify-center px-3">
+        <div className=" flex flex-row flex-wrap lg:justify-end justify-center">
+          <div className=" lg:w-4/12 flex px-3">
             <img
               src={SuccessGuidesImg}
               alt="SuccessGuidesImg"
@@ -46,7 +46,7 @@ const SuccessGuides = () => {
                 </button>
               </div>
             </div>
-            <div className=" flex flex-row flex-wrap pt-[33px]">
+            <div className=" flex flex-row flex-wrap justify-center lg:justify-start pt-[33px]">
               <div className=" lg:w-1/3 md:w-1/2 w-full px-3">
                 <div
                   className=" border-[#E3E3E3] border rounded-2xl h-100 sm:py-[15px] sm:px-[17px] p-3 cursor-pointer"
@@ -91,7 +91,7 @@ const SuccessGuides = () => {
                   </p>
                 </div>
               </div>
-              <div className=" lg:w-1/3 md:w-1/2 w-full px-3">
+              <div className=" lg:w-1/3 md:w-1/2 w-full px-3 pt-6 lg:pt-0">
                 <div
                   className=" border-[#E3E3E3] border rounded-2xl h-100 sm:py-[15px] sm:px-[17px] p-3 cursor-pointer"
                   data-aos="zoom-in-up"

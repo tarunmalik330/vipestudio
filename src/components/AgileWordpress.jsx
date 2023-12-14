@@ -17,7 +17,7 @@ const AgileWordpress = () => {
           <div className=" lg:w-7/12 w-full pt-6 lg:pt-0 flex items-center sm:justify-end">
             <div data-aos="zoom-in-left">
               <h2
-                className=" ff_KonexyPersonalUse font-normal lg:text-[48px] lg:max-w-[670px] sm:text-[40px] text-[30px] text-black pb-3"
+                className=" ff_KonexyPersonalUse font-normal lg:text-[48px] lg:max-w-[670px] sm:text-[40px] text-[23px] text-black pb-3"
                 data-aos="zoom-in-left"
               >
                 {" "}
