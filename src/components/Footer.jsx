@@ -57,64 +57,64 @@ const Footer = () => {
                 Services
               </h6>
               <ul>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center gap-1 pb-[13px] group">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy text-[14px] font-normal group-hover:text-[#C10CF7] transition-all duration-300 ease-linear"
                     href=""
                   >
                     WordPress Development
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center gap-1 pb-[13px] group">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy  group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     WooCommerce Development
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center gap-1 pb-[13px] group">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy text-[14px] group-hover:text-[#C10CF7] transition-all duration-300 ease-linear font-normal"
                     href=""
                   >
                     WordPress Maintenance
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center gap-1 pb-[13px] group">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy text-[14px] group-hover:text-[#C10CF7] transition-all duration-300 ease-linear font-normal"
                     href=""
                   >
                     Speed Optimization
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     Dedicated WordPress Developer
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     Headless WordPress Development
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white group-hover:text-[#C10CF7] transition-all duration-300 ease-linear ff_Gilroy text-[14px] font-normal"
                     href=""
                   >
                     White Label Development
@@ -127,55 +127,55 @@ const Footer = () => {
                 Services
               </h6>
               <ul>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white group-hover:text-[#C10CF7] transition-all duration-300 ease-linear ff_Gilroy text-[14px] font-normal"
                     href=""
                   >
                     WordPress Hosting
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white group-hover:text-[#FA00FF] ff_Gilroy text-[14px] font-normal"
                     href=""
                   >
                     PSD, XD, Figma to WordPress Conversion
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     Custom WordPress Theme
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     Custom WordPress Plugins
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center group gap-1 pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white group-hover:text-[#C10CF7] transition-all duration-300 ease-linear ff_Gilroy text-[14px] font-normal"
                     href=""
                   >
                     CMS to WordPress
                   </a>
                 </li>
-                <li className=" flex items-center gap-1 pb-[13px]">
+                <li className=" flex items-center gap-1 group pb-[13px]">
                   <Footericon />
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     WordPress Malware Removal
@@ -188,35 +188,35 @@ const Footer = () => {
                 Latest Articles
               </h6>
               <ul>
-                <li className="pb-[21px]">
+                <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy text-[14px] group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear font-normal"
                     href=""
                   >
                     7 WordPress Plugins to Create an Effective Newsletter
                     03.01.2022
                   </a>
                 </li>
-                <li className="pb-[21px]">
+                <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     What’s the Perfect Blog Post Length for Your WordPress
                     Site’s SEO? 02.01.2022
                   </a>
                 </li>
-                <li className="pb-[21px]">
+                <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     5 Reasons the Future of WordPress Is Headless 01.01.2022
                   </a>
                 </li>
-                <li className="pb-[21px]">
+                <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy text-[14px] font-normal"
+                    className=" text-white group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear ff_Gilroy text-[14px] font-normal"
                     href=""
                   >
                     Viptor Says: Vipe Studio’s WordPress Developers Wrap Up the

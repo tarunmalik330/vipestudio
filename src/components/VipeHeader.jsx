@@ -128,7 +128,7 @@ const VipeHeader = () => {
                     Contact Us
                   </a>
                 </li>
-                <li className=" relative group flex gap-1">
+                <li className=" relative after:absolute after:w-[1px] after:h-full after:bg-[#888] after:top-0 after:left-0 pl-[10px] group flex gap-1">
                   <Earth />
                   <a
                     className=" text-white flex font-normal ff_Gilroy text-[16px] leading-[150%] "
@@ -251,18 +251,18 @@ const VipeHeader = () => {
             </div>
           </div>
         </div>
-        <div className=" bottom-0 left-0 w-full  bg-[#e1ffff0d]">
+        <div className=" bottom-0 left-0 w-full bg-[#e1ffff0d]">
           <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 py-[64px]">
             <div className=" flex  max-lg:flex-col items-center justify-between">
               <div>
                 <h2
-                  className=" text-white text-[36px] font-normal ff_KonexyPersonalUse relative pb-[16px]"
+                  className=" text-white text-[36px] lg:text-start text-center font-normal ff_KonexyPersonalUse relative pb-[16px]"
                   data-aos="fade-up-right"
                 >
                   Tell us more....
                 </h2>
                 <p
-                  className=" text-white text-[16px] ff_Gilroy max-w-[573px] font-normal"
+                  className=" text-white text-[16px] ff_Gilroy lg:text-start text-center max-w-[573px] font-normal"
                   data-aos="fade-up-right"
                 >
                   Lectus vitae est ultrices sed. Sit aliquam commodo hac donec
