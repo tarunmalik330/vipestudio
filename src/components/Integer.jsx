@@ -8,7 +8,7 @@ const Integer = () => {
     <>
       <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[50px] md:pt-[92px] pb-[60px] sm:pb-[129px]">
         <h2
-          className="ff_KonexyPersonalUse md:text-[48px] sm:text-[40px] text-[29px] text-black font-normal pb-[54px]"
+          className="ff_KonexyPersonalUse md:text-[48px] sm:text-[40px] text-[25px] text-black font-normal pb-[54px]"
           data-aos="fade-down-right"
         >
           Integer et nisl non

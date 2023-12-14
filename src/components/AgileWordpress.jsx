@@ -35,7 +35,7 @@ const AgileWordpress = () => {
                 Elit, ultricies vitae pulvinar arcu dignissim ac non rutrum.
                 Lacus tortor sollicitudin risus eget euismod in bibendum turpis.{" "}
               </p>
-              <button className=" text-white ff_Gilroy text-[16px] font-semibold leading-[150%] bg-[#6022EA] py-[10px] px-6 rounded-[80px] hover:shadow-[0_3px_20px_rgba(96,_34,_234,_0.20)] transition-all duration-500 ease-linear">
+              <button className=" text-white ff_Gilroy text-[16px] font-semibold leading-[150%] bg-[#6022EA] py-[10px] px-6 rounded-[80px] hover:shadow-[0_3px_20px_rgba(96,_34,_234,_1)] transition-all duration-500 ease-linear">
                 Explore
               </button>
             </div>
