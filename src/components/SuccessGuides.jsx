@@ -47,10 +47,10 @@ const SuccessGuides = () => {
               </div>
             </div>
             <div
-              className=" flex flex-row flex-wrap justify-center lg:justify-start pt-[33px]"
+              className="flex flex-row flex-wrap justify-center lg:justify-start pt-[33px]"
               data-aos="zoom-in-up"
             >
-              <div className=" lg:w-1/3 md:w-1/2 w-full px-3">
+              <div className="lg:w-1/3 md:w-1/2 w-full px-3">
                 <div className=" border-[#E3E3E3] hover:shadow-[0_20px_60.571px_rgba(229,_233,_246,_1)] transition-all duration-500 ease-linear border rounded-2xl h-100 sm:py-[15px] sm:px-[17px] p-3 cursor-pointer">
                   <img
                     src={CardImg}
