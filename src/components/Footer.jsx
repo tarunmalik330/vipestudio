@@ -53,7 +53,7 @@ const Footer = () => {
           </div>
           <div className=" flex flex-row flex-wrap">
             <div className="lg:w-3/12 sm:w-1/2 w-full">
-              <h6 className=" ff_Gilroy leading-[150%] font-normal text-[16px] text-white pb-[18px]">
+              <h6 className="ff_Gilroy leading-[150%] font-normal text-[16px] text-white pb-[18px]">
                 Services
               </h6>
               <ul>
