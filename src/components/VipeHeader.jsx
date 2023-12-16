@@ -262,7 +262,7 @@ const VipeHeader = () => {
                   Tell us more....
                 </h2>
                 <p
-                  className=" text-white text-[16px] ff_Gilroy lg:text-start text-center max-w-[573px] font-normal"
+                  className=" text-white text-[16px] ff_Gilroy lg:text-start text-center font-normal"
                   data-aos="fade-up-right"
                 >
                   Lectus vitae est ultrices sed. Sit aliquam commodo hac donec
@@ -278,7 +278,7 @@ const VipeHeader = () => {
                   <input
                     type="text"
                     placeholder="What do you need assistance with?"
-                    className=" bg-transparent outline-none w-full placeholder:text-[#ffffffb3] sm:text-[16px] placeholder:text-[12px] placeholder:ff_Gilroy placeholder:leading-[150%] placeholder:font-normal"
+                    className=" bg-transparent outline-none w-full text-[#ffffffb3] sm:text-[16px] text-[12px] ff_Gilroy leading-[150%] font-normal"
                   />
                   <SearchIcon />
                 </div>
