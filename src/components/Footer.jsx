@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <>
       <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[40px] sm:pt-[120px]">
-        <div className="flex translate-y-[20%] pt-[25px] px-[24px] sm:px-[43px] justify-between items-center sm:pb-11 pb-[24px] shadow-[0_3px_20px_rgba(39,_0,_124,_0.50)] flex-row flex-wrap bg-gradient-to-r from-violet-700 to-fuchsia-500 rounded-[17px] box_animation">
+        <div className="flex translate-y-[20%] py-[24px] px-[24px] sm:px-[43px] justify-between items-center sm:pb-11 shadow-[0_3px_20px_rgba(39,_0,_124,_0.50)] flex-row flex-wrap bg-gradient-to-r from-violet-700 to-fuchsia-500 rounded-[17px] box_animation">
           <div>
             <h2 className=" ff_KonexyPersonalUse sm:text-[48px] text-[32px] text-white font-normal pb-2">
               Have you
@@ -190,7 +190,7 @@ const Footer = () => {
               <ul>
                 <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy text-[14px] group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear font-normal"
+                    className=" text-white ff_Gilroy text-[14px] group-hover:text-[#C10CF7] transition-all duration-300 ease-linear font-normal"
                     href=""
                   >
                     7 WordPress Plugins to Create an Effective Newsletter
@@ -199,7 +199,7 @@ const Footer = () => {
                 </li>
                 <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     What’s the Perfect Blog Post Length for Your WordPress
@@ -208,7 +208,7 @@ const Footer = () => {
                 </li>
                 <li className="pb-[21px] group">
                   <a
-                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear text-[14px] font-normal"
+                    className=" text-white ff_Gilroy group-hover:text-[#C10CF7] transition-all duration-300 ease-linear text-[14px] font-normal"
                     href=""
                   >
                     5 Reasons the Future of WordPress Is Headless 01.01.2022
@@ -216,7 +216,7 @@ const Footer = () => {
                 </li>
                 <li className="pb-[21px] group">
                   <a
-                    className=" text-white group-hover:text-[#C10CF7] transition-all duration-300 ease-linear transition-all duration-300 ease-linear ff_Gilroy text-[14px] font-normal"
+                    className=" text-white group-hover:text-[#C10CF7] transition-all duration-300 ease-linear ff_Gilroy text-[14px] font-normal"
                     href=""
                   >
                     Viptor Says: Vipe Studio’s WordPress Developers Wrap Up the

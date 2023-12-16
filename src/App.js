@@ -15,7 +15,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Aos from 'aos';
 import BackToTop from "./assets/images/png/BackToTop.png";
-import { Loader } from "./components/IconImg";
+// import { Loader } from "./components/IconImg";
+import Loader from './components/Loader';
 
 function App() {
   // -----------------------Aos-------------------------
@@ -46,8 +47,10 @@ function App() {
   document.getElementById('root')
   const [screenLoading, setScreenLoading] = useState(false);
   useEffect(() => {
+    document.body.classList.add("body-bg")
     setScreenLoading(true);
     setTimeout(() => {
+      document.body.classList.remove("body-bg")
       setScreenLoading(false);
     }, 3000);
   }, []);
