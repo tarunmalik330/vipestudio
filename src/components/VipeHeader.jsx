@@ -194,7 +194,7 @@ const VipeHeader = () => {
                 for Enterprise + Friendly Team{" "}
               </p>
               <p
-                className=" opacity-[0.7] relative z-[1] text-white lg:max-w-[592px] xl:text-[16px] lg:text-[13px] text-[16px] font-normal ff_Gilroy pb-[27px]"
+                className="relative z-[1] text-[#B2B2B2] lg:max-w-[592px] xl:text-[16px] lg:text-[13px] text-[16px] font-normal ff_Gilroy pb-[27px]"
                 data-aos="fade-right"
               >
                 Vipe Studio is a WordPress Agency for development - a long-term
@@ -278,7 +278,7 @@ const VipeHeader = () => {
                   <input
                     type="text"
                     placeholder="What do you need assistance with?"
-                    className=" bg-transparent outline-none w-full text-[#ffffffb3] sm:text-[16px] text-[12px] ff_Gilroy leading-[150%] font-normal"
+                    className=" bg-transparent outline-none w-full placeholder:text-[#ffffffb3] sm:text-[16px] placeholder:text-[12px] placeholder:ff_Gilroy placeholder:leading-[150%] placeholder:font-normal"
                   />
                   <SearchIcon />
                 </div>

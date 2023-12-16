@@ -46,7 +46,7 @@ const Footer = () => {
               <input
                 type="text"
                 placeholder="Search here...."
-                className=" bg-transparent outline-none w-full text-[#131313] opacity-[0.7] text-[16px] ff_Gilroy leading-[150%] font-normal"
+                className=" bg-transparent outline-none w-full placeholder:text-[#131313] opacity-[0.7] placeholder:text-[16px]  placeholder:ff_Gilroy placeholder:leading-[150%] placeholder:font-normal"
               />
               <SearchIconB />
             </div>
