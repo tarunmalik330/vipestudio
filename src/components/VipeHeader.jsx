@@ -182,7 +182,7 @@ const VipeHeader = () => {
           <div className=" flex flex-row flex-wrap items-center">
             <div className="lg:w-1/2 w-full">
               <h1
-                className=" ff_KonexyPersonalUse text-white xxl:text-7xl xl:text-[60px] md:text-[50px] text-[36px] font-normal relative after:absolute after:bg-[#6022EA] after:w-1 after:h-full after:left-0 after:top-0 pl-3"
+                className=" ff_KonexyPersonalUse text-white xxl:text-7xl xl:text-[60px] md:text-[50px] text-[36px] font-normal leading-[106%] relative after:absolute after:bg-[#6022EA] after:w-1 after:h-full after:left-0 after:top-0 pl-3"
                 data-aos="fade-right"
               >
                 WordPress Development Agency
