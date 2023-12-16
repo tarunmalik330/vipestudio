@@ -15,7 +15,6 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Aos from 'aos';
 import BackToTop from "./assets/images/png/BackToTop.png";
-// import { Loader } from "./components/IconImg";
 import Loader from './components/Loader';
 
 function App() {
