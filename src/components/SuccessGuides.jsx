@@ -55,7 +55,7 @@ const SuccessGuides = () => {
                   <img
                     src={CardImg}
                     alt="CardImg"
-                    className=" rounded-2xl w-full"
+                    className="rounded-2xl w-full"
                   />
                   <h6 className=" ff_Gilroy leading-[130%] text-[24px] font-semibold text-black pt-[17px] pb-[10px]">
                     Sit diam metus
